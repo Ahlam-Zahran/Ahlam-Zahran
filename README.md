@@ -29,7 +29,7 @@ At **Neurender**, my brain-decoding startup, every output is scored against chan
 ### Recognition
 
 🏛️ **SOFEX Jordan 2025 & SOFEX Aqaba 2026**: presented under the patronage of HRH Crown Prince Al Hussein bin Abdullah II<br>
-🥈 **2nd Place**, World Robotics Championship (WRCC) 2026, Open Category<br>
+🥈 **2nd Place**, World Robot Caspian Cup (WRCC) 2026, Baku, Open Category<br>
 🥇 **1st Place**, WEFE Hackathon 2024<br>
 🏎️ **Top 500 globally**, AWS DeepRacer 2023
 
