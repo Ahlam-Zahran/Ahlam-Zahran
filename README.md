@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahlam Zahran 👋
 
-**AI Engineer & Data Scientist · Founder & CEO of [Neurender](https://ahlam-zahran.github.io/Portfolio/#featured)**<br>
+**AI Engineer & Data Scientist · Founder & Lead Researcher, [Neurender](https://ahlam-zahran.github.io/Portfolio/#featured)**<br>
 أحلام زهران · مهندسة ذكاء اصطناعي وعالمة بيانات · Amman, Jordan
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahlam--zahran.github.io-6d5dfc?style=for-the-badge)](https://ahlam-zahran.github.io/Portfolio/)
@@ -18,7 +18,7 @@
 
 I build AI that **reconstructs the image a person is seeing from their fMRI brain activity**, and I care as much about proving a result is real as about producing it.
 
-At **Neurender**, my brain-decoding startup, every result is checked against chance and shuffled controls:
+At **Neurender**, my brain-decoding research project, every result is checked against chance and shuffled controls:
 
 - **82.1%** two-way identification accuracy on 982 held-out images (chance: 50%)
 - **p = 0.001**: no one of 1,000 shuffled controls reached it
