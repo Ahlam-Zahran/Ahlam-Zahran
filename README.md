@@ -18,11 +18,11 @@
 
 I build AI that **reconstructs the image a person is seeing from their fMRI brain activity**, and I care as much about proving a result is real as about producing it.
 
-At **Neurender**, my brain-decoding startup, every output is scored against chance, a measured noise ceiling and shuffled controls:
+At **Neurender**, my brain-decoding startup, every result is checked against chance and shuffled controls:
 
 - **82.1%** two-way identification accuracy on 982 held-out images (chance: 50%)
-- **p < 0.001** against 1,000 shuffled controls
-- **~30 seconds** to reconstruct an image from a 7T fMRI scan
+- **p = 0.001**: no one of 1,000 shuffled controls reached it
+- **One subject** from the 7T Natural Scenes Dataset (early-stage research)
 
 **Next:** validation on standard 3-Tesla hospital scanners and a public verification standard for brain-decoding claims.
 
